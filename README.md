@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 저는 C언어와 Python을 주력으로 사용하는 개발자입니다.
 
 <!--
 **DevFlora/DevFlora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
